@@ -67,7 +67,7 @@ npm run dev
 7. Abra o navegador e acesse `http://localhost:5173` para visualizar o projeto.
 
 
-## 3. Fork no repositório
+### 3. Fork no repositório
 1. Acesse o repositório do projeto no GitHub.
 2. Clique no botão "Fork" no canto superior direito da página.
 3. Escolha a conta onde deseja criar o fork.
